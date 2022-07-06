@@ -1,0 +1,334 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+
+/* Button Css*/
+
+.button {
+    background: linear-gradient(94.98deg, #ef3a2f 1.34%, #fa770d 104.22%);
+    color: #ffffff;
+    border-radius: 38px;
+    border: none;
+    padding: 10px 20px;
+}
+
+
+/* Header Styles*/
+
+.header {
+    position: fixed;
+    top: 0;
+    z-index: 999;
+    padding: 0 9.4rem;
+    font-size: 1.2rem;
+    background: #ffffff;
+}
+
+.list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color: #707070;
+}
+
+.mel {
+    margin-right: 35px;
+}
+
+
+/*Landing Page*/
+
+.landingPage-1 h1 {
+    color: #1f1f1f;
+    font-weight: 700;
+}
+
+.landingPage__Heading {
+    font-size: 48px;
+    line-height: 58.22px;
+    font-weight: 700;
+}
+
+.landingPage__subHeading {
+    color: #4d4d4d;
+    font-size: 22px;
+    line-height: 29.11px;
+    padding-top: 20px;
+}
+
+.button--style {
+    margin-top: 50px;
+}
+
+.section-2 {
+    margin-top: 160px;
+}
+
+.landingPage__Heading {
+    font-size: 48px;
+    line-height: 58.22px;
+    font-weight: 700;
+}
+
+.landingPage__subHeading {
+    color: #4d4d4d;
+    font-size: 22px;
+    line-height: 29.11px;
+    padding-top: 20px;
+}
+
+.button--style {
+    margin-top: 50px;
+}
+
+.section-2-page2 {
+    background: #f2f2f2;
+}
+
+.companyCard {
+    background: #ffffff;
+    border: 1px solid #f2f2f2;
+    border-radius: 16px;
+    margin-bottom: 12px;
+}
+
+.pad {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.cardHeading {
+    color: #ef3a2f;
+    font-size: 24px;
+    line-height: 29.11px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.cardSubHeading {
+    line-height: 22px;
+    color: #4d4d4d;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.companyStyle {
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    /*
+  padding-left: 25px;
+  padding-top: 25px; */
+}
+
+.awards {
+    padding-top: 284px;
+    background: #ffffff;
+    border-radius: 16px;
+    margin-bottom: 12px;
+}
+
+.page-3-heading {
+    color: #ef3a2f;
+    font-size: 28px;
+    line-height: 34px;
+    padding-bottom: 15px;
+}
+
+.page-3-subHeading {
+    color: #2c2c2c;
+    font-size: 48px;
+    line-height: 58px;
+}
+
+.page3-pad {
+    padding-top: 75px;
+}
+
+
+/*Footer Page*/
+
+.footer {
+    left: 1px;
+    right: 0;
+    left: 0;
+    background: #f7f7f7;
+    padding-top: 75px;
+    font-weight: 400;
+}
+
+.blank {
+    padding-bottom: 28px;
+}
+
+.list ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 19px;
+}
+
+.list ul li {
+    color: #666666;
+    line-height: 2.2;
+}
+
+.heading {
+    font-weight: 700;
+    color: #333333;
+}
+
+.footerEnd {
+    padding-top: 28px;
+    padding-bottom: 30px;
+    border-top: 1px solid #cccccc;
+}
+
+.footMap ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footMap li {
+    float: left;
+    padding-right: 15px;
+    color: #1a1a1a;
+}
+
+.icons ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.icons ul li {
+    float: left;
+    padding-right: 20px;
+}
+
+
+/*Section 2 page 2*/
+
+.section-2-page2 {
+    background: #f2f2f2;
+}
+
+.companyCard {
+    background: #ffffff;
+    border: 1px solid #f2f2f2;
+    border-radius: 16px;
+    margin-bottom: 12px;
+}
+
+.pad {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.cardHeading {
+    color: #ef3a2f;
+    font-size: 24px;
+    line-height: 29.11px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    /* color: #ef3a2f;
+  font-size: 24px;
+  line-height: 29.11px;
+  padding-bottom: 30px;
+  padding-left: 15px; */
+}
+
+.cardSubHeading {
+    line-height: 22px;
+    color: #4d4d4d;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    /* line-height: 22px;
+  color: #4d4d4d;
+  padding-left: 15px;
+  padding-bottom: 30px; */
+}
+
+.companyStyle {
+    /* padding-bottom: 60px;
+  padding-left: 25px;
+  padding-top: 25px; */
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+.awards {
+    padding-top: 284px;
+}
+
+
+/*Slick Style*/
+
+
+/* cee walla slick
+
+} */
+
+.details {
+    background-color: rgba(37, 197, 197, 0.771);
+    margin: 20px;
+    padding: 50px 50px;
+    border: 1px solid red;
+}
+
+#wrap {
+    background-color: #f2f2f2;
+    padding: 50px 0;
+}
+
+.relative {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.slick-slider-dots {
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+}
+
+.slick-slider-dots ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.slick-slider-dots ul li {
+    margin: 0 4px;
+}
+
+.slick-slider-dots ul li button {
+    background: #f97310;
+    padding: 11px 11px;
+    /* height: 21px;
+    width: 21px; */
+    font-size: 0px;
+    border: none;
+    border-radius: 50%;
+}
+
+.slick-slider-dots ul li button:active {
+    background-color: yellow;
+}
